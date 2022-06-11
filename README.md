@@ -12,3 +12,9 @@
 * Setup contact me page
 * Host site in github pages
 * Dockerize project
+
+
+# How to use 
+* git pull https://github.com/mikedhanson/HugoPortfolio.git
+* hugo server -D
+* Navigated to localhost:1313
